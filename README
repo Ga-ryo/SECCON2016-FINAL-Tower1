@@ -1,0 +1,11 @@
+SECCON 2016 FINAL Tower 1 exploit part.
+
+Distributed source code is ./www/pub/files/*
+
+So you should read only ./www/pub/files/*  if you wanna solve under the same conditions.
+
+RUN:
+  apt install gnugo 
+  pip install flask
+  cd www
+  python index.py
