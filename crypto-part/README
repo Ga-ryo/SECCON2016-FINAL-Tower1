@@ -1,0 +1,12 @@
+SECCON 2016 FINAL Tower 1 crypto part.
+Host: hall.1.finals.seccon.jp
+
+No districuted soruce code.
+
+RUN:
+  apt install php-curl php-bcmath php-pdo-sqlite
+  cd www
+  php -S localhost:8888
+
+flag page: http://hall.1.finals.seccon.jp/?exclude_newbies=60
+
